@@ -1,5 +1,5 @@
 # Project Name
-Weather Forecast Data APP
+Weather Forecast Data App
 
 # What does this project do?
 The Weather Forecast App is a python application that 
